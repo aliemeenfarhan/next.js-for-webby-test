@@ -1,5 +1,6 @@
-# next-js-10-crud-example
-
-Next.js 10 - CRUD Example with React Hook Form
-
-For documentation and live demo go to https://jasonwatmore.com/post/2021/04/20/next-js-10-crud-example-with-react-hook-form
+Run code
+1)Install the code 
+2)Open the code and open terminal
+3)write "npm i" to install  node modules
+4)write "npm run dev" to run 
+5)Go to "http://localhost:3000"
